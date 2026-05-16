@@ -1,10 +1,10 @@
 # IndusAgrii Platform
 
-IndusAgrii is a modern B2B & B2C agriculture import-export platform designed to streamline product discovery, responsive ecommerce experiences, and scalable business workflows.
+IndusAgrii is a modern B2C agriculture platform designed to streamline product discovery, responsive ecommerce experiences, and scalable business workflows.
 
 ## Overview
 
-The platform focuses on delivering a modern digital experience for agriculture-related product management and trade operations while supporting scalable frontend and backend systems.
+The platform focuses on delivering a modern digital experience for agriculture-related product management while supporting scalable frontend and backend systems.
 
 ## Features
 
@@ -28,7 +28,6 @@ The platform focuses on delivering a modern digital experience for agriculture-r
 ### Backend
 
 * PHP
-* Python
 
 ### Database & Cloud
 
